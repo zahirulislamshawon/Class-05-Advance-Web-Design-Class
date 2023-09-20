@@ -1,0 +1,137 @@
+@media(max-width:575px){
+	.logo img {
+    max-width: 100px;
+}
+
+.container {
+    flex-direction: column;
+}
+.content {
+    flex-direction: column;
+    align-items: center;
+}
+
+.recomendent {
+    
+    padding: 10px 10px;
+    max-width: 100%;
+  
+}
+
+	.recomendent p {
+    font-size: 25px;
+}
+
+.recomendent img {
+    max-width: 150px;
+}
+
+.details h2 {
+	font-size: 35px;
+ 
+}
+.details h3{
+	font-size: 30px;
+}
+
+.details a {
+       padding: 15px 45px;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.review h4 {
+    font-size: 40px;
+}
+
+.col_1_3{
+	max-width: 100%;
+    padding: 25px;
+}
+.col_1_3 h2 {
+	text-align: center;
+    font-weight: 900;
+}
+.col_1_3 p{
+	    text-align: center;
+    font-size: 28px;
+}
+.col_1_3 a {
+	font-size: 30px;
+    padding: 15px 35px;
+     text-align: center;
+}
+
+.col_1_3 img {
+	padding: 0 30px;
+}
+
+.col_1_3 h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+.col_1_3 span{
+	font-size: 17px;
+}
+
+
+.col_1_4 img{
+	max-width: 200px;
+}
+
+.col_1_4_1 img{
+	max-width: 200px;
+}
+
+.col_1_4 p{
+	    font-size: 22px;
+    text-align: center;
+    margin: 0 6px;
+}
+.col_1_4_1 p{
+	    font-size: 22px;
+    text-align: center;
+    margin: 0 6px;
+}
+
+.Offer {
+    align-items: center;
+    text-align: center;
+}
+.Offer h2{
+	    font-size: 35px;
+    text-align: center;
+    font-weight: 600;
+}
+.Offer h4{font-size: 19px;
+    padding: 5px 15px;
+    font-weight: 400;
+
+}
+.Offer a{
+	    padding: 15px 45px;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.offerGallery_Image{
+	flex-direction: column;
+    align-items: center;
+}
+
+.offerGallery_Image .col_1_3{
+
+	max-width: 100%;
+}
+
+.offerDetails{
+
+	margin: 0 30px;
+}
+
+
+
+}
